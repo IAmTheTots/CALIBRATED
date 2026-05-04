@@ -1,0 +1,15 @@
+# Roblox Studio files
+*.rbxl.bak
+*.rbxl.swp
+*.rbxl~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node modules (if using CLI tools)
+node_modules/
