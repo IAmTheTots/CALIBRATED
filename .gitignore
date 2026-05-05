@@ -1,3 +1,7 @@
+# Local dev files
+dev images/
+Reference/
+
 # Roblox Studio files
 *.rbxl.bak
 *.rbxl.swp
